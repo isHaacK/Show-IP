@@ -1,5 +1,5 @@
 # Show-IP
-Simple script to get interface IP in xfce-panel  
+Simple script to show interface IP in xfce-panel
    
 ![image](https://user-images.githubusercontent.com/43073766/154344150-b5444e44-1306-4fc0-bea1-2bfe99a2445a.png)
 

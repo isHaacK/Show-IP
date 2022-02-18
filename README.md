@@ -1,7 +1,7 @@
 # Show-IP
 Simple script to show interface IP in xfce-panel
-   
-![image](https://user-images.githubusercontent.com/43073766/154344150-b5444e44-1306-4fc0-bea1-2bfe99a2445a.png)
+
+![image](https://user-images.githubusercontent.com/43073766/154743587-94322feb-d197-4235-85ee-9a1c793b5920.png)
 
 ## Usage
 add a general monitor on the panel and attach the script.
